@@ -1,0 +1,14 @@
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\bin\Debug\net9.0\ECommerceSearchExample.exe
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\bin\Debug\net9.0\ECommerceSearchExample.deps.json
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\bin\Debug\net9.0\ECommerceSearchExample.runtimeconfig.json
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\bin\Debug\net9.0\ECommerceSearchExample.dll
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\bin\Debug\net9.0\ECommerceSearchExample.pdb
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.AssemblyInfoInputs.cache
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.AssemblyInfo.cs
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.csproj.CoreCompileInputs.cache
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.dll
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\refint\ECommerceSearchExample.dll
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.pdb
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ECommerceSearchExample.genruntimeconfig.cache
+C:\Users\SEC\WEEK 1\ECommerceSearchExample\obj\Debug\net9.0\ref\ECommerceSearchExample.dll
