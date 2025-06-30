@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="82ade454-5b2b-448c-9e5b-fcc2514c8801" name="SEC@VELAN-85131 2025-06-30 01:20:13" runUser="VELAN-85131\SEC" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-06-30T01:20:13.1223391+05:30" queuing="2025-06-30T01:20:13.1223391+05:30" start="2025-06-30T01:20:11.2226947+05:30" finish="2025-06-30T01:20:13.5013688+05:30" />
+  <TestSettings name="default" id="536b6349-3350-49ad-a774-560c4ceb69b5">
+    <Deployment runDeploymentRoot="SEC_VELAN-85131_2025-06-30_01_20_13" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="b2dfc361-3f46-472f-8d91-9eed9ccfd5cb" testId="645f2989-98de-2ce2-e291-70aa3c042e0d" testName="Subtraction_TwoNumbers_ReturnsCorrectDifference" computerName="VELAN-85131" duration="00:00:00.0000001" startTime="2025-06-30T01:20:13.1960567+05:30" endTime="2025-06-30T01:20:13.1960567+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2dfc361-3f46-472f-8d91-9eed9ccfd5cb" />
+    <UnitTestResult executionId="0a014641-673f-49dc-9a0d-ef7ebfea0562" testId="634d5eeb-b912-97dd-9e66-c257dd0a66bc" testName="TestMethod1" computerName="VELAN-85131" duration="00:00:00.0058735" startTime="2025-06-30T01:20:12.0012586+05:30" endTime="2025-06-30T01:20:12.0615260+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a014641-673f-49dc-9a0d-ef7ebfea0562" />
+    <UnitTestResult executionId="054477fb-27ce-45e6-aee8-36849f0f8b7b" testId="ec2735e9-5ba7-ddf1-8533-4657265590df" testName="Addition_TwoNumbers_ReturnsCorrectSum" computerName="VELAN-85131" duration="00:00:00.0210000" startTime="2025-06-30T01:20:13.1525929+05:30" endTime="2025-06-30T01:20:13.1735956+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="054477fb-27ce-45e6-aee8-36849f0f8b7b" />
+    <UnitTestResult executionId="f4a5c68c-306d-4011-8cb7-155e7cce373b" testId="4266f5de-5e4f-c62e-6110-e04358773588" testName="Division_ByZero_ThrowsArgumentException" computerName="VELAN-85131" duration="00:00:00.0200000" startTime="2025-06-30T01:20:13.1765484+05:30" endTime="2025-06-30T01:20:13.1960567+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4a5c68c-306d-4011-8cb7-155e7cce373b" />
+    <UnitTestResult executionId="ad3676e0-6d81-443e-8d5f-119e3348b661" testId="276de189-e1c6-5d6e-c8fa-1919ccfa767b" testName="Multiplication_TwoNumbers_ReturnsCorrectProduct" computerName="VELAN-85131" duration="00:00:00.0000001" startTime="2025-06-30T01:20:13.1960567+05:30" endTime="2025-06-30T01:20:13.1960567+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad3676e0-6d81-443e-8d5f-119e3348b661" />
+    <UnitTestResult executionId="b474eec2-c4f8-44e1-85c1-d50963f41116" testId="e9d1f552-5c2f-559a-d874-c78eb3b905ad" testName="AllClear_ResetsResultToZero" computerName="VELAN-85131" duration="00:00:00.0000001" startTime="2025-06-30T01:20:13.1755479+05:30" endTime="2025-06-30T01:20:13.1765484+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b474eec2-c4f8-44e1-85c1-d50963f41116" />
+    <UnitTestResult executionId="e92dc52f-16ac-4250-b829-66bda8615f66" testId="1dda4e76-0484-a911-4283-d29201b31b6c" testName="Division_TwoNumbers_ReturnsCorrectQuotient" computerName="VELAN-85131" duration="00:00:00.0000001" startTime="2025-06-30T01:20:13.1960567+05:30" endTime="2025-06-30T01:20:13.1960567+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e92dc52f-16ac-4250-b829-66bda8615f66" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Subtraction_TwoNumbers_ReturnsCorrectDifference" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="645f2989-98de-2ce2-e291-70aa3c042e0d">
+      <Execution id="b2dfc361-3f46-472f-8d91-9eed9ccfd5cb" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="Subtraction_TwoNumbers_ReturnsCorrectDifference" />
+    </UnitTest>
+    <UnitTest name="Multiplication_TwoNumbers_ReturnsCorrectProduct" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="276de189-e1c6-5d6e-c8fa-1919ccfa767b">
+      <Execution id="ad3676e0-6d81-443e-8d5f-119e3348b661" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="Multiplication_TwoNumbers_ReturnsCorrectProduct" />
+    </UnitTest>
+    <UnitTest name="Division_ByZero_ThrowsArgumentException" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="4266f5de-5e4f-c62e-6110-e04358773588">
+      <Execution id="f4a5c68c-306d-4011-8cb7-155e7cce373b" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="Division_ByZero_ThrowsArgumentException" />
+    </UnitTest>
+    <UnitTest name="Division_TwoNumbers_ReturnsCorrectQuotient" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="1dda4e76-0484-a911-4283-d29201b31b6c">
+      <Execution id="e92dc52f-16ac-4250-b829-66bda8615f66" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="Division_TwoNumbers_ReturnsCorrectQuotient" />
+    </UnitTest>
+    <UnitTest name="AllClear_ResetsResultToZero" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="e9d1f552-5c2f-559a-d874-c78eb3b905ad">
+      <Execution id="b474eec2-c4f8-44e1-85c1-d50963f41116" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="AllClear_ResetsResultToZero" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="634d5eeb-b912-97dd-9e66-c257dd0a66bc">
+      <Execution id="0a014641-673f-49dc-9a0d-ef7ebfea0562" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="CalcLibrary.Tests.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="Addition_TwoNumbers_ReturnsCorrectSum" storage="c:\users\sec\downloads\parent project code\parent project code\calclibrary\calclibrary\calclibrary.tests\bin\debug\calclibrary.tests.dll" id="ec2735e9-5ba7-ddf1-8533-4657265590df">
+      <Execution id="054477fb-27ce-45e6-aee8-36849f0f8b7b" />
+      <TestMethod codeBase="C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalcLibrary.Tests.CalculatorTests" name="Addition_TwoNumbers_ReturnsCorrectSum" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="645f2989-98de-2ce2-e291-70aa3c042e0d" executionId="b2dfc361-3f46-472f-8d91-9eed9ccfd5cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="634d5eeb-b912-97dd-9e66-c257dd0a66bc" executionId="0a014641-673f-49dc-9a0d-ef7ebfea0562" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec2735e9-5ba7-ddf1-8533-4657265590df" executionId="054477fb-27ce-45e6-aee8-36849f0f8b7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4266f5de-5e4f-c62e-6110-e04358773588" executionId="f4a5c68c-306d-4011-8cb7-155e7cce373b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="276de189-e1c6-5d6e-c8fa-1919ccfa767b" executionId="ad3676e0-6d81-443e-8d5f-119e3348b661" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e9d1f552-5c2f-559a-d874-c78eb3b905ad" executionId="b474eec2-c4f8-44e1-85c1-d50963f41116" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dda4e76-0484-a911-4283-d29201b31b6c" executionId="e92dc52f-16ac-4250-b829-66bda8615f66" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 5.0.0.0: Test execution started&#xD;
+Running all tests in C:\Users\SEC\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalcLibrary.Tests\bin\Debug\CalcLibrary.Tests.dll&#xD;
+   NUnit3TestExecutor discovered 6 of 6 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+NUnit Adapter 5.0.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
