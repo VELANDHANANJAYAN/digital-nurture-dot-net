@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="319d5c79-30f8-4d52-9f26-bc974d47b1f9" name="SEC@VELAN-85131 2025-06-30 03:27:35" runUser="VELAN-85131\SEC" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-06-30T03:27:35.8320582+05:30" queuing="2025-06-30T03:27:35.8320582+05:30" start="2025-06-30T03:27:34.1624673+05:30" finish="2025-06-30T03:27:35.8619713+05:30" />
+  <TestSettings name="default" id="c6999b44-c098-4763-8da4-b3eca09b319d">
+    <Deployment runDeploymentRoot="SEC_VELAN-85131_2025-06-30_03_27_35" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="f5be994f-b7d8-481c-beec-9e49df816c1e" testId="969c5f77-7574-b5cf-a313-a79428a4dabd" testName="SendMailToCustomer_ShouldReturnTrue_WhenMailIsSentSuccessfully" computerName="VELAN-85131" duration="00:00:00.1440000" startTime="2025-06-30T03:27:35.5546078+05:30" endTime="2025-06-30T03:27:35.6958686+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5be994f-b7d8-481c-beec-9e49df816c1e" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="SendMailToCustomer_ShouldReturnTrue_WhenMailIsSentSuccessfully" storage="c:\users\sec\source\repos\customercommlib\customercomm.tests\bin\debug\customercomm.tests.dll" id="969c5f77-7574-b5cf-a313-a79428a4dabd">
+      <Execution id="f5be994f-b7d8-481c-beec-9e49df816c1e" />
+      <TestMethod codeBase="C:\Users\SEC\source\repos\CustomerCommLib\CustomerComm.Tests\bin\Debug\CustomerComm.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CustomerCommLib.Tests.CustomerCommTests" name="SendMailToCustomer_ShouldReturnTrue_WhenMailIsSentSuccessfully" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="969c5f77-7574-b5cf-a313-a79428a4dabd" executionId="f5be994f-b7d8-481c-beec-9e49df816c1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 5.0.0.0: Test execution started&#xD;
+Running all tests in C:\Users\SEC\source\repos\CustomerCommLib\CustomerComm.Tests\bin\Debug\CustomerComm.Tests.dll&#xD;
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+NUnit Adapter 5.0.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
