@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\employeeapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\employeeapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|c:\\users\\sec\\source\\repos\\employeeapidemo\\employeeapidemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C99CF23-0145-4FA6-AC65-B0C4DF961DA5}|EmployeeApiDemo\\EmployeeApiDemo.csproj|solutionrelative:employeeapidemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Program.cs*",
+              "RelativeToolTip": "EmployeeApiDemo\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:29:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:29:30.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:29:04.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:27:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:26:44.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Skill.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:26:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeApiDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:25:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeApiDemo",
+              "DocumentMoniker": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\EmployeeApiDemo.csproj",
+              "RelativeDocumentMoniker": "EmployeeApiDemo\\EmployeeApiDemo.csproj",
+              "ToolTip": "C:\\Users\\SEC\\source\\repos\\EmployeeApiDemo\\EmployeeApiDemo\\EmployeeApiDemo.csproj",
+              "RelativeToolTip": "EmployeeApiDemo\\EmployeeApiDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T14:24:39.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
